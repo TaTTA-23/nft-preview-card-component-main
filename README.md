@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://tatta-23.github.io/nft-preview-card-component-main/)
 
 ## My process
 
@@ -77,7 +77,7 @@ I want to keep learning more about different styles and combinations, perfecting
 
 ### Useful resources
 
-- [CSS|MDN](https://www.example.com](https://developer.mozilla.org/pt-BR/docs/Web/CSS) -   I'd recommend it to anyone still learning this concept.
+- [CSS|MDN](https://developer.mozilla.org/pt-BR/docs/Web/CSS) -   I'd recommend it to anyone still learning this concept.
 
 ## Author
 
