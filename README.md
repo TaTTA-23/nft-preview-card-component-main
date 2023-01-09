@@ -39,7 +39,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [CSS](https://reactjs.org/](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries)- Media Queries
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Media_Queries/Using_media_queries)- Media Queries
 - [Styled Components](https://styled-components.com/) - For styles
 
 
